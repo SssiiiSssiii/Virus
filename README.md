@@ -17,3 +17,5 @@ int main() {
     }
 }
 ```
+![Alt text](/images/virus.gif)
+
