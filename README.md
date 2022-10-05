@@ -1,5 +1,5 @@
 # Virus
-
+Idea &rarr; Duplicate a file on the device infinitely, and this consumes the device's resources to the maximum.
 ```c
 #include <bits/stdc++.h>
 #include <direct.h>
