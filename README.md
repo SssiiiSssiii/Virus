@@ -17,6 +17,6 @@ int main() {
     }
 }
 ```
-## Run
+## The output
 ![Alt text](/images/virus.gif)
 
